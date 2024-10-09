@@ -1,219 +1,163 @@
 {
   "main": {
-    "name": "Saneel Daniel",
+    "name": "Anish Patel",
     "occupation": "Software Engineer",
-    "description": "I am a motivated self-learner, currently in my final year of Undergraduation In Software Engineering and seeking full-time/intern Full-Stack Software/BlockChain Developer Roles. I hope to leverage my knowledge and experience to be able to work on  complex and challenging projects",
-    "image": "profilepic.jpg",
-    "bio": "Curiosity & Eagerness about technologies and understanding how their implementation can help serve the community, is what draws me towards the fields of Software Development. I have a good understanding of Data Structures and Algorithms, and core concepts of Computer Science. Proficient in Web/Mobile Development with ReactJS, and React Native, and also hold strong knowledge and experience in back-end development with Java, Node.JS, and AWS/GCP Cloud Tools. ",
-    "contactmessage": "I hope you found my profile worthwhile and to get in touch with you !",
-    "email": "saneel.daniel07@gmail.com",
-    "phone": "+1 (669)-278-5078",
+    "description": "Software Development Engineer experienced in building scalable backend systems and cloud services. Passionate about solving complex problems and leveraging the latest technologies to create impactful software solutions. Currently seeking opportunities in fast-growing startups and midsize companies where I can contribute to backend architecture, cloud integrations, and system design.",
+    "image": "portfolioImage.jpg",
+"bio": "Curiosity drives me, technology excites me, and chess keeps me on my toes. As a Software Development Engineer, I am passionate about creating scalable systems and elegant backend solutions that solve real-world problems. When I'm not coding, you can find me diving into emerging tech trends or strategizing my next move in a chess game. Let’s connect and build something that makes a difference!",    "contactmessage": "I hope you found my profile worthwhile and to get in touch with you !",
+    "email": "anishpatel.code@gmail.com",
+    "phone": "+1 (669)-292-8485",
     "address": {
-      "street": "33 S 3rd St,",
-      "city": "San Jose",
+      "street": "333 Escuela Avenue,",
+      "city": "Mountain View",
       "state": "California",
-      "zip": "95113"
+      "zip": "94040"
     },
-    "website": "https://danielsaneeldennis--portfolio.web.app",
-    "resumedownload": "https://drive.google.com/file/d/16B08jzLUJ_9PC44odT2NXSb7OsI0zrfE/view?usp=sharing",
+    "website": "https://anish-patel-portfolio.web.app",
+    "resumedownload":  "https://drive.google.com/file/d/17xe3ilaAWT0TrBA3I2yt7bSplpDAfOjP/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saneel-daniel/",
+        "url": "https://www.linkedin.com/in/anish-patel7/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "gmail",
-        "url": "mailto:saneel.daniel07@gmail.com",
+        "url": "mailto:anishpatel.code@gmail.com",
         "className": "fa fa-google-plus"
       },
       {
         "name": "github",
-        "url": "https://github.com/SaneelDaniel",
+        "url": "https://github.com/AnishPatel2697",
         "className": "fa fa-github"
       },
       {
-        "name": "facebook",
-        "url": "http://facebook.com/saneeldaniel94",
-        "className": "fa fa-facebook"
+        "name": "Instagram",
+        "url": "https://www.instagram.com/__anish97/",
+        "className": "fa fa-instagram"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Proficient in Back-End development with Node.JS, Java, Solidity, and Express.JS, and Front-End development with ReactJS, React Native, Web3.Js! ",
-    "additionalSkills": "I am a professional and self-motivated individual, Always eager to learn new things, and excited to build things that matter. ",
-    "education": [
-      {
-        "school": "San Jose State University",
-        "degree": "Bachelors of Science in Software Engineering",
-        "graduated": "May 2021",
-        "description": "As part of my Academic Curriculum, I assimilated knowledge and interest in various technologies for Software Developement. Being part of the SJSU community, also helped me understand the value of team work and collaborative efforts."
-      },
-      {
-        "school": "Institute Of Diploma Studies, Nirma University",
-        "degree": "Diploma in Information Technology",
-        "graduated": "May 2016",
-        "description": "As part of my Diploma, I was academically briefed on various parts and functions of the Information Technology Stack. Out of all the valuable learning material, the power of Coding and Software Developement stuck with me."
-      }
-    ],
-    "work": [
-      {
-        "company": "Cobalt Lend",
-        "title": "Volunteer, Blockchain Developer",
-        "years": "March 2021 - Present",
-        "description": " Collaborating remotely with a team of 15 towards research, design and implementation of Cobalt Lend (CBLT) business logic as smart contracts on the Ethereum Blockchain, while reducing transactions and reducing the incurred fees. Designed and currently Implementing a custodian wallet to support business process and inter blockchain trade, swapping, and liquidity pool mechanism. System implementation tech stack EVM, Solidity, Java, React.JS, CSS, Rinkeby TestNet, Metamask, NULS Chain Box."
-      },
-      {
-        "company": "Freelance Collaboration",
-        "title": "Full-Stack Web Developer",
-        "years": "February 2021 - May 2021",
-        "description": "Collaborating with another team-mate to design and develop a production grade (Sass) single-vendor e-commerce web app for a client. Major features like subscriptions, build-your-own console that allows users to assemble a desktop from scratch as per their needs, etc. Tech Stack: SQL Server, Node.js, GraphQL, Bootstrap 4, React/Next.Js"
-      },
-      {
-        "company": "Event Services, San Jose State University",
-        "title": "AV Technician",
-        "years": "September 2019 - Present",
-        "description": "Coordinating with clients and managing the technical (AV) requirements for everyday events held in the Student Union at SJSU were a big part of my responsibilities."
-      },
-      {
-        "company": "Nirma University, Ahmedabad, India",
-        "title": "Software Developer Intern",
-        "years": "January 2016 - May 2016",
-        "description": "Assisted the IT team of Nirma University, as part of a small team of student developers, in designing, prototyping and developing a scalable web portal for students to stay updated of all the news/updates about the Campus Community. \n Technology Stack: Asp.Net, JavaScript,HTML & Microsoft SQL Server"
-      },
-      {
-        "company": "Daemonia Inc, Ahmedabad, India",
-        "title": "Co-Founder / Partner",
-        "years": "May 2014 - Dec 2015",
-        "description": "Co-Founded an Event Organizing & Managing Firm along with 3 other partners.  Organized a total of 4 events in the year 2014-2015, generating a revenue of over $8000"
-      }
-    ],
-    "skills": [
-      {
-        "name": "Java",
-        "level": "90%"
-      },
-      {
-        "name": "Node.Js",
-        "level": "80%"
-      },
-      {
-        "name": "SQL",
-        "level": "90%"
-      },
-      {
-        "name": "Python",
-        "level": "60%"
-      },
-      {
-        "name": "Solidity",
-        "level": "70%"
-      },
-      {
-        "name": "React.Js",
-        "level": "90%"
-      },
-      {
-        "name": "React Native",
-        "level": "90%"
-      },
-      {
-        "name": "Javascript",
-        "level": "90%"
-      },
-      {
-        "name": "Web3.JS",
-        "level": "90%"
-      },
-      {
-        "name": "CSS",
-        "level": "60%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
-      },
-      {
-        "name": "DynamoDB",
-        "level": "70%"
-      },
-      {
-        "name": "Microsoft SQL Server",
-        "level": "70%"
-      }
-    ]
+  "skillmessage": "Proficient in Backend development with Java, Python, Node.js, and Groovy, and Frontend development with React, JavaScript, HTML5, and CSS3.",
+  "additionalSkills": "I am a dedicated and self-motivated professional, always eager to learn new technologies and build impactful software solutions.",
+  "education": [
+    {
+      "school": "San Jose State University",
+      "degree": "Bachelor of Science in Software Engineering",
+      "graduated": "December 2020",
+      "description": "Studied a variety of software engineering topics, gaining skills in programming, software development methodologies, and cloud computing. Developed teamwork and collaboration skills through academic projects and extracurricular activities."
+    }
+  ],
+  "work": [
+    {
+      "company": "Amazon",
+      "title": "Software Engineer",
+      "years": "January 2022 - Present",
+      "description": "Developed an internal application using React.js for frontend and Java for backend, using Docker and Kubernetes for containerization. Leveraged AWS services like Lambda, S3, and DynamoDB for data management. Automated security processes, reducing manual effort by 90%, and enhanced the Ring Vulnerability Management Platform by implementing data validation and encryption. Integrated advanced scanning tools into CI/CD pipelines for automated vulnerability detection."
+    },
+    {
+      "company": "Freddie Mac",
+      "title": "Software Engineer",
+      "years": "June 2021 - December 2021",
+      "description": "Developed user interfaces using HTML, CSS, and JavaScript, integrated with Java-based backend services and DynamoDB. Optimized application performance using AWS services, resulting in a 25% increase in system reliability. Participated in agile processes to deliver high-quality software, enhancing user experience and accessibility across multiple devices."
+    },
+    {
+      "company": "Math Department, San Jose State University",
+      "title": "Workshop Facilitator",
+      "years": "September 2019 - December 2020",
+      "description": "Worked as a Tutor for students of Math 100A and Math 100B classes. These are classes for students willing to enter SJSU but need to pass these classes before that."
+    }
+  ],
+ "skills": [
+  {
+    "name": "Java",
+    "level": "90%"
   },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Amazon Clone Web-App",
-        "category": "Ecommerce Mock Based on Amazon",
-        "image": "amazon-clone.png",
-        "url": "https://github.com/SaneelDaniel/AmazonClone"
-      },
-      {
-        "title": "De-Centralized Art Hosting Platform",
-        "category": "Blockchain Based Art hosting platform",
-        "image": "screenshot-homescreen-decentragram.png",
-        "url": "https://github.com/SaneelDaniel/IncetivizedArtSharing_DApp"
-      },
-
-      {
-        "title": "NBA player Analysis/Web-Scrapping",
-        "category": "A python app, to web-scrap nba player data and analyse/visualize and find co-relations",
-        "image": "nba-analysis.png",
-        "url": "https://github.com/SaneelDaniel/nba-player-analysis-python"
-      },
-      {
-        "title": "React Native Group Chat Moible App",
-        "category": "A group chat app, built with React Native, inspired by Signal",
-        "image": "groupchat.png",
-        "url": "https://github.com/SaneelDaniel/signal-clone-ReactNative"
-      },
-      {
-        "title": "Crypto Price Tracker Web-App ",
-        "category": "Crypto",
-        "image": "crypto-tracker.png",
-        "url": "https://github.com/SaneelDaniel/crypto-tracker-client-app"
-      },
-      {
-        "title": "Trav-Safe",
-        "category": "(offline now) Developing A Safety Travel Rating App In React Native with AWS & Java back-end",
-        "image": "travsafe-Logo.png",
-        "url": "https://github.com/SaneelDaniel/TravSafe-Component-BuildAndTesting"
-      },
-      {
-        "title": "De-Centralized File storing/sharing Platform ",
-        "category": "De-Centralized file storing DApp based over Ethereum Blockchain",
-        "image": "screenshot-dapp-dropbox.png",
-        "url": "https://github.com/SaneelDaniel/mock-DApp-dropbox"
-      },
-      {
-        "title": "Android Stock App",
-        "category": "A stock viewing applicaition i developed using Android Studo, Java and MySQL",
-        "image": "android-stock.png",
-        "url": "https://github.com/SaneelDaniel/AndroidStockApp"
-      },
-      {
-        "title": "PHP Bookmarks Manager App",
-        "category": "A basic Bookmark Manager/Marker Web-Page app built on PHP and html",
-        "image": "bookmarks-php.png",
-        "url": "https://github.com/SaneelDaniel/BookmarksManagerPHP"
-      },
-      {
-        "title": "Desktop Calendar App",
-        "category": "A Java/JavaFX/JavaSwing based calendar app",
-        "image": "calendar-java.png",
-        "url": "https://github.com/SaneelDaniel/DesktopCalendarAppJAVA"
-      },
-      {
-        "title": "Kumi Web Client",
-        "category": "A Python/PostGreSQL based team messaging app",
-        "image": "kumi-home.png",
-        "url": "http://kumix.herokuapp.com/"
-      }
-    ]
+  {
+    "name": "Python",
+    "level": "80%"
   },
+  {
+    "name": "JavaScript",
+    "level": "90%"
+  },
+  {
+    "name": "React",
+    "level": "85%"
+  },
+  {
+    "name": "Node.js",
+    "level": "80%"
+  },
+  {
+    "name": "SQL",
+    "level": "90%"
+  },
+  {
+    "name": "Groovy",
+    "level": "70%"
+  },
+  {
+    "name": "CSS",
+    "level": "70%"
+  },
+  {
+    "name": "MongoDB",
+    "level": "75%"
+  },
+  {
+    "name": "DynamoDB",
+    "level": "75%"
+  },
+  {
+    "name": "AWS Lambda",
+    "level": "70%"
+  },
+  {
+    "name": "Docker",
+    "level": "75%"
+  },
+  {
+    "name": "Kubernetes",
+    "level": "60%"
+  },
+  {
+    "name": "Terraform",
+    "level": "60%"
+  },
+  {
+    "name": "AWS S3",
+    "level": "70%"
+  },
+  {
+    "name": "CI/CD Tools (Jenkins, GitHub Actions)",
+    "level": "75%"
+  }
+]
+},
+ "portfolio": {
+  "projects": [
+    {
+      "title": "Hotel Reservation System",
+      "category": "Java GUI implementation of a hotel reservation system",
+      "url": "https://github.com/AnishPatel2697/Hotel-Reservation",
+      "image": "images/hotel-reservation-system.png"
+    },
+    {
+      "title": "Netflix Clone Web-App",
+      "category": "A clone of Netflix, built with React.js for frontend and Java backend",
+      "url": "https://github.com/AnishPatel2697/netflix-client-app",
+      "image": "images/netflix-clone-landingpage.jpg"
+    },
+    {
+      "title": "Personal AI-Powered Chatbot",
+      "category": "An AI-powered chatbot built for personal use, integrating GPT-3.5 with Dialogflow for NLU and context management.",
+      "note": "This project focuses on building a personalized bot with context management and advanced conversational intelligence.",
+      "image": "images/personal-chatbot.jpg"
+    }
+  ]
+},
   "testimonials": {
     "testimonials": [
       {
