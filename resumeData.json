@@ -153,7 +153,7 @@
     {
       "title": "Personal AI-Powered Chatbot",
       "category": "An AI-powered chatbot built for personal use, integrating GPT-3.5 with Dialogflow for NLU and context management.",
-      "note": "This project focuses on building a personalized bot with context management and advanced conversational intelligence.",
+      "url": "https://github.com/AnishPatel2697/personal-chatbot",
       "image": "images/personal-chatbot.jpg"
     }
   ]
