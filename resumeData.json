@@ -2,16 +2,17 @@
   "main": {
     "name": "Anish Patel",
     "occupation": "Software Engineer",
-    "description": "Software Development Engineer experienced in building scalable backend systems and cloud services. Passionate about solving complex problems and leveraging the latest technologies to create impactful software solutions. Currently seeking opportunities in fast-growing startups and midsize companies where I can contribute to backend architecture, cloud integrations, and system design.",
+    "description": "Impact-driven full-stack engineer building product-facing frontends, scalable backend systems, and AI-powered infrastructure with a bias for ownership and operational excellence.",
     "image": "portfolioImage.jpg",
-"bio": "Curiosity drives me, technology excites me, and chess keeps me on my toes. As a Software Development Engineer, I am passionate about creating scalable systems and elegant backend solutions that solve real-world problems. When I'm not coding, you can find me diving into emerging tech trends or strategizing my next move in a chess game. Let’s connect and build something that makes a difference!",    "contactmessage": "I hope you found my profile worthwhile and to get in touch with you !",
+    "bio": "Curiosity drives me, technology excites me, and chess keeps me on my toes. As a full-stack Software Engineer, I’m passionate about building AI-powered systems, scalable backends, and product-facing frontends that solve real-world problems. Currently at Meta working on autonomous AI agents and developer platforms. When I’m not coding, you can find me diving into emerging tech trends or strategizing my next move in a chess game. Let’s connect and build something that makes a difference!",
+    "contactmessage": "I hope you found my profile worthwhile and to get in touch with you !",
     "email": "anishpatel.code@gmail.com",
     "phone": "+1 (669)-292-8485",
     "address": {
-      "street": "333 Escuela Avenue,",
-      "city": "Mountain View",
+      "street": "",
+      "city": "Santa Clara",
       "state": "California",
-      "zip": "94040"
+      "zip": ""
     },
     "website": "https://anish-patel-portfolio.web.app",
     "resumedownload":  "https://drive.google.com/file/d/17xe3ilaAWT0TrBA3I2yt7bSplpDAfOjP/view?usp=sharing",
@@ -39,28 +40,28 @@
     ]
   },
   "resume": {
-  "skillmessage": "Proficient in Backend development with Java, Python, Node.js, and Groovy, and Frontend development with React, JavaScript, HTML5, and CSS3.",
+  "skillmessage": "Full-stack engineer proficient in JavaScript, TypeScript, Java, Python, and Hack/PHP, with expertise in React, GraphQL, Spring Boot, Node.js, and AWS. Experienced in AI/agent systems, multi-agent orchestration, and MCP tooling.",
   "additionalSkills": "I am a dedicated and self-motivated professional, always eager to learn new technologies and build impactful software solutions.",
   "education": [
     {
       "school": "San Jose State University",
       "degree": "Bachelor of Science in Software Engineering",
       "graduated": "December 2020",
-      "description": "Studied a variety of software engineering topics, gaining skills in programming, software development methodologies, and cloud computing. Developed teamwork and collaboration skills through academic projects and extracurricular activities."
+      "description": "Studied a variety of software engineering topics, gaining skills in programming, software development methodologies, and cloud computing. GPA: 3.3/4.0. Developed teamwork and collaboration skills through academic projects and extracurricular activities."
     }
   ],
   "work": [
     {
-      "company": "Amazon",
+      "company": "Meta",
       "title": "Software Engineer",
-      "years": "January 2022 - Present",
-      "description": "Developed an internal application using React.js for frontend and Java for backend, using Docker and Kubernetes for containerization. Leveraged AWS services like Lambda, S3, and DynamoDB for data management. Automated security processes, reducing manual effort by 90%, and enhanced the Ring Vulnerability Management Platform by implementing data validation and encryption. Integrated advanced scanning tools into CI/CD pipelines for automated vulnerability detection."
+      "years": "March 2025 - Present",
+      "description": "Designed and developed AuditFixer, an autonomous AI fix pipeline for Meta's Comet web platform using Claude Code, MCP tooling, and orchestrator-subagent architecture — eliminating 6-7 hours of engineering time per task across 100+ trace policies. Contributed to Comet Defense Agent (Opsmate planner-executor AI agent) for PREQ regressions across Facebook, Instagram Web, and Threads, enabling 100% autonomous root-cause analysis. Shipped GraphQL prefetching on hover for Facebook Profile tabs improving P75 Visual Completion by 175ms. Delivered Meta's Llama API evaluation platform end-to-end in 2 weeks and contributed full-stack to Meta.ai Launch using React, Relay, GraphQL, Hack/PHP, and Ent schema."
     },
     {
-      "company": "Freddie Mac",
-      "title": "Software Engineer",
-      "years": "June 2021 - December 2021",
-      "description": "Developed user interfaces using HTML, CSS, and JavaScript, integrated with Java-based backend services and DynamoDB. Optimized application performance using AWS services, resulting in a 25% increase in system reliability. Participated in agile processes to deliver high-quality software, enhancing user experience and accessibility across multiple devices."
+      "company": "Amazon",
+      "title": "Software Development Engineer",
+      "years": "January 2022 - September 2024",
+      "description": "Owned full SDLC for a cloud-native resource management microservice for Amazon Devices: built a React/Material-UI dashboard with API-integrated state management, engineered Python Lambda functions with Step Functions orchestration, DynamoDB conditional-write transactions, and API Gateway REST endpoints — reducing manual effort by 70% and errors by 60%. Engineered the Branch Retirement Request workflow for the Vulnerability Management platform (React UI + Java/Spring Boot APIs + SNS/SQS event-driven fan-out), reducing unnecessary tickets by 50%. Automated false-positive vulnerability lifecycle management via scheduled Python Lambda jobs, eliminating 7-8 hours/week of manual work. Delivered Ring iOS compliance reporting dashboard with React/Chart.js frontend and SES-templated email notifications, reducing overdue-ticket tracking time by 60%."
     },
     {
       "company": "Math Department, San Jose State University",
@@ -71,68 +72,128 @@
   ],
  "skills": [
   {
+    "name": "JavaScript",
+    "level": "95%"
+  },
+  {
+    "name": "TypeScript",
+    "level": "90%"
+  },
+  {
     "name": "Java",
     "level": "90%"
   },
   {
     "name": "Python",
-    "level": "80%"
-  },
-  {
-    "name": "JavaScript",
-    "level": "90%"
-  },
-  {
-    "name": "React",
     "level": "85%"
   },
   {
-    "name": "Node.js",
-    "level": "80%"
+    "name": "Hack/PHP",
+    "level": "75%"
   },
   {
     "name": "SQL",
     "level": "90%"
   },
   {
-    "name": "Groovy",
-    "level": "70%"
+    "name": "React",
+    "level": "90%"
+  },
+  {
+    "name": "GraphQL",
+    "level": "85%"
+  },
+  {
+    "name": "Relay",
+    "level": "80%"
+  },
+  {
+    "name": "Node.js",
+    "level": "85%"
+  },
+  {
+    "name": "Spring Boot",
+    "level": "80%"
+  },
+  {
+    "name": "Redux",
+    "level": "80%"
+  },
+  {
+    "name": "Material-UI",
+    "level": "80%"
+  },
+  {
+    "name": "Chart.js",
+    "level": "75%"
   },
   {
     "name": "CSS",
-    "level": "70%"
-  },
-  {
-    "name": "MongoDB",
-    "level": "75%"
+    "level": "80%"
   },
   {
     "name": "DynamoDB",
-    "level": "75%"
+    "level": "85%"
   },
   {
     "name": "AWS Lambda",
-    "level": "70%"
+    "level": "85%"
   },
   {
-    "name": "Docker",
-    "level": "75%"
+    "name": "Step Functions",
+    "level": "80%"
   },
   {
-    "name": "Kubernetes",
-    "level": "60%"
-  },
-  {
-    "name": "Terraform",
-    "level": "60%"
+    "name": "SQS / SNS",
+    "level": "80%"
   },
   {
     "name": "AWS S3",
+    "level": "80%"
+  },
+  {
+    "name": "API Gateway",
+    "level": "80%"
+  },
+  {
+    "name": "CloudWatch",
+    "level": "75%"
+  },
+  {
+    "name": "Docker",
+    "level": "80%"
+  },
+  {
+    "name": "Kubernetes",
     "level": "70%"
   },
   {
-    "name": "CI/CD Tools (Jenkins, GitHub Actions)",
-    "level": "75%"
+    "name": "Kafka",
+    "level": "65%"
+  },
+  {
+    "name": "Terraform",
+    "level": "65%"
+  },
+  {
+    "name": "CI/CD (Jenkins, GitHub Actions)",
+    "level": "80%"
+  },
+  {
+    "name": "MCP / AI Agents",
+    "level": "85%"
+  },
+  {
+    "name": "Multi-Agent Orchestration",
+    "level": "80%"
+  },
+  {
+    "name": "MongoDB",
+    "level": "70%"
+  },
+  {
+    "name": "Jest / JUnit",
+    "level": "80%"
   }
 ]
 },
